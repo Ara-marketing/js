@@ -5,3 +5,4 @@ var AraLib = {
         console.log('version' + this.version);
     }
 }
+console.log('not working?');
