@@ -1,7 +1,7 @@
 /***Ara Js library***/
-Let AraLib = {
+var AraLib = {
     version: '1.0.0',
-    test = function print() {
-        console.log('output');
+    test: function print() {
+        console.log('version' + this.version);
     }
 }
