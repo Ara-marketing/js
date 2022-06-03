@@ -6,4 +6,4 @@ var Ara = {
         alert(Ara.version);
     }
 }
-console.log('not working?');
+console.log('this dev');
