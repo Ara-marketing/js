@@ -3,7 +3,7 @@ var Ara = {
     version: '1.0.0',
     copyright: 'Ara webteam',
     printVersion: () => {
-        alert(Ara.version);
+        alert(this.version);
     }
 }
 console.log('not working?');
